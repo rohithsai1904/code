@@ -1,0 +1,53 @@
+// add these in events.jsx//
+<div>
+	     <h1 id="tf">techfests</h1>
+	  	<h1 id="reas">research publ</h1>
+	    <h1 id="sig">significant days</h1>
+	    <h1 id="clg">fests</h1>
+			
+	  </div>
+    
+  // add these in infrastructure.jsx//
+  
+  <div>
+	  <h1 id="cl">classroom</h1>
+	   <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+            />
+			 <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+            />
+	<h1 id="lab">Labs</h1>
+			 <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+            />
+	<h1 id="pl">playgrounds</h1>
+			 <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+            />
+	<h1 id="lib">library</h1>
+			 <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+            />
+			 <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+            />
+	<h1 id="au">auditorium</h1>
+			 <img
+              class="img-fluid rounded mb-4 mb-lg-0"
+              src="http://placehold.it/900x400"
+              alt=""
+            />
+	  </div>
